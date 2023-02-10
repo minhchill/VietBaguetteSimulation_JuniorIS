@@ -1,4 +1,4 @@
-# VietBaguetteSimulation_JuniorIS
+# VietBaguetteSimulation
 
 Abstract: 
 
