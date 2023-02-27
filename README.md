@@ -8,54 +8,52 @@ As an aspiring UX designer with a special interest in cultural display media, I 
 -----------------------------------------------------------------------------------------------------------------------
 
 PROJECT PLANNER:
-Week of 01/23/2023:
-Due: Project Proposal
-Status: submitted
-  
-Week of 02/06/2023:
-Due: Annotated Bibliography
+Week of 01/23/2023, Due: Project Proposal
+
 Status: submitted
 
-Week of 02/27/2023:
-Due: Intermediate Code
-KPI:
-Status:
-
-Week of 03/06/2023:
-Due: 
-KPI:
-Status:
-
-Week of 03/13/2023:
-Due: 
-KPI:
   
-Week of 03/20/2023:
-Due: 
+Week of 02/06/2023, Due: Annotated Bibliography
+
+Status: submitted
+
+
+Week of 02/27/2023, Due: Intermediate Code
+
+KPI: Set up environment, outline the rendering pipeline, implement the yeast texture
+
+
+
+Week of 03/06/2023, Due: First Draft
+
+KPI: Finish the writing draft up to before Processing.js hosting
+
+
+Week of 03/13/2023
+
+KPI: Implement the interactivity
+  
+
+Week of 03/27/2023, Due: Intermediate Code
+
+KPI: Add UI elements
+
+Week of 04/03/2023
+
+KPI: Finish all writings
+
+Week of 04/10/2023
+
 KPI:
 
-Week of 03/27/2023:
-Due: 
-KPI:
+Week of 04/17/2023
 
-Week of 04/03/2023:
-Due:
-KPI:
+KPI: Presentation
 
-Week of 04/10/2023:
-Due:
-KPI:
-
-Week of 04/17/2023:
-Due:
-KPI:
-
-Week of 04/24/2023:
-Due: Final Project
-KPI:
+Week of 04/24/2023, Due: Final Project
 
 -----------------------------------------------------------------------------------------------------------------------
 BABBLE DIARY:
 
 -----------------------------------------------------------------------------------------------------------------------
-EXTRA RESOURCES
+EXTERNAL RESOURCES:
