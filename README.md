@@ -9,50 +9,50 @@ As an aspiring UX designer with a special interest in cultural display media, I 
 
 PROJECT PLANNER:
 Week of 01/23/2023:
-  Due: Project Proposal
-  Status: submitted
+Due: Project Proposal
+Status: submitted
   
 Week of 02/06/2023:
-  Due: Annotated Bibliography
-  Status: submitted
+Due: Annotated Bibliography
+Status: submitted
 
 Week of 02/27/2023:
-  Due: Intermediate Code
-  KPI:
-  Status:
+Due: Intermediate Code
+KPI:
+Status:
 
 Week of 03/06/2023:
-  Due: 
-  KPI:
-  Status:
+Due: 
+KPI:
+Status:
 
 Week of 03/13/2023:
-  Due: 
-  KPI:
+Due: 
+KPI:
   
 Week of 03/20/2023:
-  Due: 
-  KPI:
+Due: 
+KPI:
 
 Week of 03/27/2023:
-  Due: 
-  KPI:
+Due: 
+KPI:
 
 Week of 04/03/2023:
-  Due:
-  KPI:
+Due:
+KPI:
 
 Week of 04/10/2023:
-  Due:
-  KPI:
+Due:
+KPI:
 
 Week of 04/17/2023:
-  Due:
-  KPI:
+Due:
+KPI:
 
 Week of 04/24/2023:
-  Due: Final Project
-  KPI:
+Due: Final Project
+KPI:
 
 -----------------------------------------------------------------------------------------------------------------------
 BABBLE DIARY:
