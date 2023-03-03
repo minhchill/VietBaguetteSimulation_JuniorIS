@@ -2,7 +2,6 @@
 
 ABSTRACT:
 
-Academic:
 As an aspiring UX designer with a special interest in cultural display media, I would like to implement a generative art program to simulate the structure of a Vietnamese baguette. The program is interactive by letting the user generate a random structure, rip the baguette structure apart, or pour over it some condensed milk . The objective is to provide an authentic visual abstraction of a baguette through gamifying its culinary experience, as inspired by my childhood relationship with this snack delicacy. 
 
 -----------------------------------------------------------------------------------------------------------------------
