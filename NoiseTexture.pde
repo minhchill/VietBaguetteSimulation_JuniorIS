@@ -6,7 +6,8 @@
  */
  
 float increment = 0.05;
-// The noise function's 3rd argument, a global variable that increments once per cycle
+// The noise function's 3rd argument, a global variable incrementing once per cycle
+
 float zoff = 0.0;  
 // We will increment zoff differently than xoff and yoff
 float zincrement = 0.02; 
@@ -18,8 +19,8 @@ void setup() {
 
 void draw() {
   
-  // Optional: adjust noise detail here
-  // noiseDetail(8,0.65f);
+  //adjust noise detail here
+  noiseDetail(8,0.65f);
   
   loadPixels();
 
