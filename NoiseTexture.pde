@@ -19,7 +19,7 @@ void setup() {
 
 void draw() {
   
-  //adjust noise detail here
+  //adjust noise detail
   noiseDetail(8,0.65f);
   
   loadPixels();
