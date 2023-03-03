@@ -8,20 +8,14 @@ As an aspiring UX designer with a special interest in cultural display media, I 
 -----------------------------------------------------------------------------------------------------------------------
 
 PROJECT PLANNER:
-Week of 01/23/2023, Due: Project Proposal
 
-Status: submitted
+(submitted) Week of 01/23/2023, Due: Project Proposal
 
-  
-Week of 02/06/2023, Due: Annotated Bibliography
-
-Status: submitted
-
+(submitted) Week of 02/06/2023, Due: Annotated Bibliography
 
 Week of 02/27/2023, Due: Intermediate Code
 
-KPI: Set up environment, outline the rendering pipeline, implement the yeast texture
-
+KPI: Set up environment, outline the rendering pipeline, implement the noise texture
 
 
 Week of 03/06/2023, Due: First Draft
@@ -53,7 +47,6 @@ KPI: Presentation
 Week of 04/24/2023, Due: Final Project
 
 -----------------------------------------------------------------------------------------------------------------------
-BABBLE DIARY:
-
------------------------------------------------------------------------------------------------------------------------
 EXTERNAL RESOURCES:
+
+Development Diary: https://bit.ly/junioris_diary
