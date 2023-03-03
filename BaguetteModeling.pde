@@ -8,7 +8,7 @@ int unit = 40;
 int count;
 Module[] mods;
 
-void setup() {
+void setup2() {
   size(640, 360);
   noStroke();
   int wideCount = width / unit;
@@ -24,7 +24,7 @@ void setup() {
   }
 }
 
-void draw() {
+void draw2() {
   background(0);
   for (Module mod : mods) {
     mod.update();

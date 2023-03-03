@@ -5,18 +5,18 @@
  * Here, the third dimension ('z') is treated as time. 
  */
  
-float increment = 0.01;
+float increment = 0.05;
 // The noise function's 3rd argument, a global variable that increments once per cycle
 float zoff = 0.0;  
 // We will increment zoff differently than xoff and yoff
 float zincrement = 0.02; 
 
-void setup2() {
-  size(640, 360);
-  frameRate(30);
+void setup() {
+  size(1000, 550);
+  frameRate(40);
 }
 
-void draw2() {
+void draw() {
   
   // Optional: adjust noise detail here
   // noiseDetail(8,0.65f);
